@@ -24,7 +24,7 @@ The project follows a real-world analytics process, starting with data preparati
 
 ## Dataset
 
-**Dataset:** *[Dataset Name]*
+**Dataset:** Customer_shopping_Behavior 
 
 The dataset contains business transaction records that were analyzed to understand customer behavior, sales performance, product trends, and operational efficiency.
 
